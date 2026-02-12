@@ -1,0 +1,11 @@
+# Ignore build folders
+bin/
+obj/
+
+# Ignore Visual Studio temp files
+.vs/
+*.user
+*.suo
+
+# Ignore local settings (Important for security!)
+appsettings.Development.json

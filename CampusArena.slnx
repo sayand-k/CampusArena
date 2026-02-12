@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CampusArena/CampusArena.Client/CampusArena.Client.csproj" />
+  <Project Path="CampusArena/CampusArena/CampusArena.csproj" />
+</Solution>
